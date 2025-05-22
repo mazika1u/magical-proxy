@@ -1,0 +1,16 @@
+{
+  "name": "magical-proxy",
+  "version": "1.0.0",
+  "description": "Stylish proxy site using node-unblocker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "unblocker": "^2.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
